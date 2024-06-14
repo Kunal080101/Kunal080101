@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Patel</h1>
 <h3 align="center">Web Developer | DevOps with Cloud Computing student | Data Enthusiast | Technology Aficionado</h3>
 <img align="right" alt="coding" width="400" src = "https://www.pinterest.ca/pin/126663808259169541/">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal080101&label=Profile%20views&color=0e75b6&style=flat" alt="kunal080101" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal080101&label=Profile%20views&color=0e75b6&style=flat](https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471" alt="kunal080101" /> </p>
 
 - 🔭 I’m currently working on **Exploring innovative data analytics techniques and their applications**
 
