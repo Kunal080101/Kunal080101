@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Patel</h1>
 <h3 align="center">Web Developer | DevOps with Cloud Computing student | Data Enthusiast | Technology Aficionado</h3>
-<img align="right" alt="coding" width="400" src = "https://www.pinterest.ca/pin/126663808259169541/">
-<p align="left"> <img src="https://www.google.com/imgres?q=Animated%20coding%20gif%20for%20GitHub%20mywork.gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgist%2FPrince-Shivaram%2F106aa0f37f016eda7ec65de5acb90471%2Fraw%2F760aff1fe331f8a445d4573aa88fd2ec16e72b83%2FMy-work.gif&imgrefurl=https%3A%2F%2Fgist.github.com%2F106aa0f37f016eda7ec65de5acb90471&docid=OT1uAcoY-Mpk7M&tbnid=HrFq718d3M32jM&vet=12ahUKEwikrrjgsduGAxVd48kDHdLkA50QM3oECBEQAA..i&w=512&h=198&hcb=2&ved=2ahUKEwikrrjgsduGAxVd48kDHdLkA50QM3oECBEQAA"/> </p>
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=Animated%20coding%20gif%20for%20GitHub%20mywork.gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgist%2FPrince-Shivaram%2F106aa0f37f016eda7ec65de5acb90471%2Fraw%2F760aff1fe331f8a445d4573aa88fd2ec16e72b83%2FMy-work.gif&imgrefurl=https%3A%2F%2Fgist.github.com%2F106aa0f37f016eda7ec65de5acb90471&docid=OT1uAcoY-Mpk7M&tbnid=HrFq718d3M32jM&vet=12ahUKEwikrrjgsduGAxVd48kDHdLkA50QM3oECBEQAA..i&w=512&h=198&hcb=2&ved=2ahUKEwikrrjgsduGAxVd48kDHdLkA50QM3oECBEQAA">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal080101&label=Profile%20views&color=0e75b6&style=flat" alt="kunal080101" /> </p>
 
 - 🔭 I’m currently working on **Exploring innovative data analytics techniques and their applications**
 
